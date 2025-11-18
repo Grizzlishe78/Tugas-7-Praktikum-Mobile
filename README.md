@@ -7,7 +7,9 @@ Shift Akhir D <br>
 
 Screenshoot Aplikasi <br>
 
-![Demo](assets/images/K-pop_hits.jpeg)
+![Demo](assets/images/Login.png)
+![Demo](assets/images/Home.png)
+![Demo](assets/images/About.png)
 
 main.dart <br>
 
