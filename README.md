@@ -5,7 +5,9 @@ Shift Akhir D <br>
 
 # Tugas 7 Pertemuan 9
 
-Screenshoot Aplikasi
+Screenshoot Aplikasi <br>
+
+![Demo](assets/images/K-pop_hits.jpeg)
 
 main.dart <br>
 
